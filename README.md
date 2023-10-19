@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **the MERN stack and Java**
 
-- 👨‍💻 My portfolio projects are available at [https://marcushugo.netlify.app/](https://marcushugo.netlify.app/)
-
 - 📫 How to reach me **marcushugo97@gmail.com**
 
 - ⚡ Fun fact **I play synthesizers**
