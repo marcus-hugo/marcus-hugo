@@ -2,7 +2,7 @@
 
 <p>I build responsive, user-friendly websites and web applications, with a strong understanding of web development best practices, including accessibility.</p>
 
-- 🌱 I’m currently learning **the MERN stack and Java**
+- 🌱 I’m currently learning **the MERN stack**
 
 - 📫 How to reach me **marcushugo97@gmail.com**
 
